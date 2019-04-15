@@ -4,12 +4,12 @@ import firestore from 'firebase/firestore'
 //const settings = {timestampsInSnapshots: true};
 
 var config = {
-    apiKey: "AIzaSyAFLUPjWJYLSxEHgTnCkSkBX2nX4tZtwfE",
-    authDomain: "todoapp-12331.firebaseapp.com",
-    databaseURL: "https://todoapp-12331.firebaseio.com",
+    apiKey: "XXXXX",
+    authDomain: "XXXXX",
+    databaseURL: "XXXXX",
     projectId: "todoapp-12331",
-    storageBucket: "todoapp-12331.appspot.com",
-    messagingSenderId: "581399751484"
+    storageBucket: "XXXXX",
+    messagingSenderId: "XXXXX"
   };
   
 firebase.initializeApp(config);
